@@ -1,0 +1,9 @@
+composer update topthink/framework			tp框架包
+
+composer composer require alibabacloud/client		阿里云短信
+
+composer require tencentcloud/tencentcloud-sdk-php	腾讯云短信依赖
+
+composer require topthink/think-multi-app 		多应用模式
+
+composer require liliuwei/thinkphp-jump			安装旧版本跳转操作
