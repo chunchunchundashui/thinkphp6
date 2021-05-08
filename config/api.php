@@ -18,10 +18,10 @@ return [
     ],
     // 腾讯短信
     'txSMS' => [
-        'secretId' => 'AKIDUfdqFX5Io580qQu0OdbNvc2JJ2FClRAe',
-        'secretKey' => 'MQiwuMYUBcjtQiUGmOjU0GI3VPSFuOe7',
+        'secretId' => '',
+        'secretKey' => '',
         'TemplateID' =>  '625562',   // 模板id
-        'Sign'  =>  '岳长春学习测试',   // 签名内容
+        'Sign'  =>  '学习测试',   // 签名内容
         'SmsSdkAppid' => '1400379804'   // 应用id
     ]
 ];
